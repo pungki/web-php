@@ -4,6 +4,5 @@ Tampilan web dengan bahasa pemograman PHP, Java Script dan CSS, sebagai contoh p
 
 semoga bermanfaat :D
 
-
-best regards,
+Best Regards
 Pungki dan Wiwik 
